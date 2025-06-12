@@ -1,0 +1,14 @@
+timestamp,user_name,user_email,usability_rating,accuracy_rating,interface_rating,overall_rating,what_worked,what_didnt,suggestions,useful_feature
+2025-06-12T12:30:01.710551,,,5,5,5,5,,,,Prediction
+2025-06-12T12:32:16.069963,riaz,,5,5,5,5,www,www,www,Prediction
+2025-06-12T12:34:04.201620,gul,,5,5,5,5,model training ,graphs,improve analytics,Prediction
+2025-06-12T12:34:04.201621,osama,,6,8,8,8,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201622,amjad,,8,8,8,8,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201623,shah,,9,9,9,9,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201624,zuraiz,,5,6,7,7,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201625,hameed,,6,6,6,5,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201626,abdullah,,8,8,7,5,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201627,gul2,,9,9,9,5,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201628,ayaz,,9,9,5,5,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201629,qadir,,6,9,9,6,model training ,,improve analytics,Prediction
+2025-06-12T12:34:04.201630,shair,,9,6,6,9,model training ,,improve analytics,Prediction
